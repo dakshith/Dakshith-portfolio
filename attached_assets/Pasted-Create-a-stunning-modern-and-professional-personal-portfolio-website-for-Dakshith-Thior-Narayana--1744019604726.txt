@@ -1,0 +1,45 @@
+Create a stunning, modern, and professional personal portfolio website for Dakshith Thior Narayana, a Senior Full Stack Developer with 7+ years of experience. The site should be premium-quality with smooth Framer Motion animations, a glassmorphism or neumorphism design, and built using React + Tailwind CSS.
+
+✅ Include the following sections with clean layout, animated transitions, and responsive design:
+
+Hero Section: Fullscreen intro with background animation, animated profile image, name ("Dakshith Thior Narayana"), title ("Senior Full Stack Developer"), tagline ("Crafting scalable software with passion and precision"), and CTA buttons for "Download Resume" and "Contact Me".
+
+About Me: Brief bio with animated photo, visa info (German National Visa - Chancenkarte), language fluency (English: Fluent, German: Basic), and base location (Germany).
+
+Skills: Interactive animated cards showcasing:
+
+Languages: Python, PHP, JavaScript
+
+Frameworks: Django, Flask, Laravel, ReactJS, React Native, Node.js
+
+Databases: PostgreSQL, MySQL, MongoDB
+
+Others: Redis, Celery, AWS, Docker, GraphQL, REST API, WebSocket, CI/CD
+
+Agile, Team Leadership, and DSA
+
+Experience Timeline: Animated vertical timeline showing experience at Limendo and Pacewisdom Solutions with achievements like leading projects, boosting productivity by 40%, and mentoring team members.
+
+Projects Section: Responsive, filterable project cards with tech stack tags, screenshots, and hover animations.
+
+Testimonials: Animated quotes (can use placeholders) from managers/colleagues.
+
+Contact Me Section: Stylish animated form with fields for name, email, message. Include contact details:
+
+Phone: +49-15510825813
+
+LinkedIn: https://www.linkedin.com/in/dakshith-tn/
+
+Footer: Clean footer with social links, copyright.
+
+🎨 Design Guidelines:
+
+Use Framer Motion for all scroll & entrance animations
+
+Glassy cards, soft shadows, rounded corners (2xl), minimal fonts
+
+Mobile-first & dark/light mode toggle
+
+Use Next.js for routing (optional)
+
+Include favicon and SEO tags
